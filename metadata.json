@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Correction and Rewrite Tool",
+  "description": "Suggest corrected wording and clearer alternatives for sentences using Advanced Transformer techniques and text generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
